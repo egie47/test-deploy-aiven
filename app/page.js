@@ -235,15 +235,7 @@ export default function Home() {
             />
           </div>
 
-          <div className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-full bg-emerald-100 font-bold text-emerald-700">
-              A
-            </div>
-            <div>
-              <p className="text-sm font-semibold">Administrator</p>
-              <p className="text-xs text-slate-400">Character Manager</p>
-            </div>
-          </div>
+        
         </header>
 
         <div className="mx-auto max-w-7xl space-y-8 p-5 sm:p-8">

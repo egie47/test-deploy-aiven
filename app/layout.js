@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'CRUD Produk - Next.js + MySQL',
+  title: 'CRUD Produk - tes aiven',
   description: 'Contoh aplikasi CRUD dengan Next.js dan MySQL (Aiven)',
 };
 

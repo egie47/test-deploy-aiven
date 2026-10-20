@@ -43,8 +43,8 @@ export async function POST(request) {
 
     const pool = getPool();
 
-    // Kolom lama tetap dipertahankan.
-    // price menggunakan nilai default database jika tidak dikirim.
+   
+
     const [result] = await pool.query(
       `INSERT INTO products (name, description, price, level)
        VALUES (?, ?, ?, ?)`,
